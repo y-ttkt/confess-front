@@ -14,7 +14,7 @@ confessのフロントリポジトリです。
 #### clone
 
 ```
-git clone git@github.com:yusuke-takatsu/confess-front.git
+git clone git@github.com:y-ttkt/confess-front.git
 ```
 
 #### build
